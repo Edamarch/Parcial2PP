@@ -21,7 +21,7 @@
 		<td colspan="2">
 			<p>
 				Descripción: <br>
-				Este repositorio es para uso unicamente educativo, con el fin de aprender a compartir proyectos de programacion.
+				Este repositorio es para uso unicamente educativo, con el fin de aprender a compartir proyectos de programación.
 			</p>
 		</td>
 	</tr>
