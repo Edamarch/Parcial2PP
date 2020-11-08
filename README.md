@@ -46,14 +46,6 @@
 			</tr>
 			<tr>
 				<td>
-					<b>Carnet:</b>
-				</td>
-				<td>
-					<b>Nombre:</b>
-				</td>
-			</tr>
-			<tr>
-				<td>
 					<b>201016005</b>
 				</td>
 				<td>
