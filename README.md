@@ -38,14 +38,6 @@
 			</tr>
 			<tr>
 				<td>
-					<b>200210759</b>
-				</td>
-				<td>
-					<b>JAQUELINE WENDY LLANIRA MONTERROSO MIRANDA</b>
-				</td>
-			</tr>
-			<tr>
-				<td>
 					<b>201016005</b>
 				</td>
 				<td>
