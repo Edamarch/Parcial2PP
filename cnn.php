@@ -2,7 +2,7 @@
     $servername = "localhost";
     $database = "dbexpress";
     $username = "root";
-    $password = '$$pp2020$$';
+    $password = '$$Inf0$$';
     // Create connection
     $conn = mysqli_connect($servername, $username, $password, $database);
     // Check connection

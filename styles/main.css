@@ -1,4 +1,4 @@
-
+ 
 
 
  * {
@@ -79,8 +79,8 @@ div#body_6{ /*Para centrar las tablas de actualización menos la primaria*/
 }
 div#body_7{ /*Para pantalla de busqueda de datos.*/
 	margin: 0 auto;
-	margin-left: 5%;
-	width: 780px;
+	margin-left: 45%;
+	width: 980px;
 	height: 357px;
 	background-color:#ffff ;
 	display: inline-block;
